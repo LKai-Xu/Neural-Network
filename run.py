@@ -1,4 +1,5 @@
-from PIL.Image import Image
+# 2021.07.22
+
 from 网络模型文件 import 网络模型
 import torch
 import torch.optim as optim
